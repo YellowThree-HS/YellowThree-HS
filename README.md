@@ -1,5 +1,3 @@
-# 我是hs，你们好！立志做一个抽象大师！
-
 
 <h1 align="center">Hi 👋, I'm YellowThree（江怿/小白233）</h1>
 <h3 align="center">An Abstract Master from China.（抽象大师）</h3>
