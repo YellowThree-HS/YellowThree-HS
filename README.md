@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm YellowThree（江怿/小白233）</h1>
 <h3 align="center">An Abstract Master from China.（抽象大师）</h3>
 
-- 🌱 I’m currently learning **嵌入式开发**
+- 🌱 I’m currently learning **具身智能**、**智能机器人**
 
-- 💬 Ask me about **Python、C++、嵌入式**
+- 💬 Ask me about **Python、C++、嵌入式、人工智能**
 
 - 📫 How to reach me **hsssshan666@gmail.com/1251138420@qq.com**
 
